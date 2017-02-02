@@ -12,3 +12,6 @@ mentioned in the code comments.
 
 Change the [section_identifier] placeholder to some class that identifies your
 sections.
+
+#### Download
+You can download the code from the [releases](https://github.com/davic-cit/section_scroll/releases) page.
