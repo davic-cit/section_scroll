@@ -20,7 +20,7 @@ jQuery.each(jQuery('body').find('[section_identifier]'), function() {
 
 // On window scroll, check our array to see if we are inside a section.
 // If the scrollTop is inside a section, change the menu item that represents
-// that section to the active layout by adding the active class.
+// that section to the "active menu item layout" by adding the active class.
 jQuery(window).scroll(function() {
   var scroll = $(window).scrollTop();
   sectionPosition.forEach(function (item) {
